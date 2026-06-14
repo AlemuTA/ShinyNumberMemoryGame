@@ -1,0 +1,12 @@
+name: NumberMemoryGame
+title: NumberMemoryGame
+username: appdge
+account: appdge
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13443588
+bundleId: 9413191
+url: https://appdge.shinyapps.io/NumberMemoryGame/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
